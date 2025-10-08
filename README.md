@@ -23,7 +23,9 @@ A Java-based CPU Scheduling Simulator that implements the Burst-Aware Dynamic Ti
 The **BA-DTQ RR** algorithm improves upon the traditional Round Robin approach by **dynamically adjusting the time quantum** in each scheduling round based on process burst times.
 
 
-Conclusion
+## 🧾 Conclusion  
 
-The BA-DTQ RR Simulator showcases how a dynamic quantum mechanism can significantly improve CPU scheduling performance.
-With a simple GUI and detailed results, this project helps visualize the impact of adaptive scheduling strategies in real time.
+The **BA-DTQ RR Simulator** showcases how a dynamic quantum mechanism can significantly improve CPU scheduling performance.  
+With a simple GUI and detailed results, this project helps visualize the impact of adaptive scheduling strategies in real time.  
+It effectively demonstrates how minor algorithmic enhancements in scheduling can lead to better CPU utilization, reduced waiting times, and improved system responsiveness.
+
