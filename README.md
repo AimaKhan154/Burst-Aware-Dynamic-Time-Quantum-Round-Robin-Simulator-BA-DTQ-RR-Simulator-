@@ -30,7 +30,6 @@ After running Round Robin
 
 <img width="1909" height="986" alt="image" src="https://github.com/user-attachments/assets/ab3a11f6-e787-44d9-a4a2-a931fc4dbda9" />
 
-
 ---
 
 ## 🧩 Algorithm Concept  
